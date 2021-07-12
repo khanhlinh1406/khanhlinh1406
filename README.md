@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/khanhlinhnguyen1406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khanhlinhnguyen1406" height="30" width="40" /></a> -->
 </p>
+
+[![](https://raw.githubusercontent.com/khanhlinh1406/profile-summary-cards/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/khanhlinh1406/profile-summary-cards/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)         [![](https://raw.githubusercontent.com/khanhlinh1406/profile-summary-cards/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
