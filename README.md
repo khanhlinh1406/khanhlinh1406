@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello, I'm Khanh Linh</h1>
-<h3 align="center">UIT - 19520145</h3>
+<!-- <h1 align="center">Hello, I'm Khanh Linh</h1>
+<h3 align="center">UIT - 19520145</h3> -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
