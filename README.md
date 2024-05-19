@@ -1,4 +1,4 @@
-## Hi there, I'm Linh 😸
+## Hi there, Khanh Linh is here 😸
 ![](https://komarev.com/ghpvc/?username=khanhlinh1406&color=brightgreen)
 * Student at University of Information Technology - VNUHCM, major in Software Engineering
 * I strongly focus on Web Development, especially in front-end side
